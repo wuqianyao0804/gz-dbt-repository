@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-  - name: gz_raw_data
+  - name: raw
     description: raw data circle sportswear from le wagon
     schema: gz_raw_data
     tables:
